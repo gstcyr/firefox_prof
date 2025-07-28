@@ -2,6 +2,8 @@
 
 Firefox Prof (`firefox_prof`) is a small utility that makes **Firefox behave like Chrome** when it comes to profiles. It tracks which Firefox profile was last active, and ensures that URLs opened from external apps (like Slack, Thunderbird, or Terminal) are opened in the correct Firefox window.
 
+It currently is only setup for Firefox installed with Snap on Ubuntu.
+
 ---
 
 ## 🚀 Features
