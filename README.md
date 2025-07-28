@@ -16,6 +16,13 @@ Firefox Prof (`firefox_prof`) is a small utility that makes **Firefox behave lik
 
 ## 🛠️ Installation Instructions
 
+For quick install, use the `setup.sh` script:
+
+```bash
+chmod +x setup.sh
+./setup.sh
+```
+
 
 ### 🐧 Install Dependencies
 
